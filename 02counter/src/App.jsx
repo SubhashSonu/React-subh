@@ -40,7 +40,7 @@ function App() {
     }
     setCounter(newCounter);
   };
-
+  
   return (
     <>
       <h1>Car aur horn</h1>
